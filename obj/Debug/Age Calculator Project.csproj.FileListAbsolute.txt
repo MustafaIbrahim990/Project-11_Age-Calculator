@@ -1,0 +1,12 @@
+C:\Users\abdul\source\repos\Age Calculator Project\bin\Debug\Age Calculator Project.exe.config
+C:\Users\abdul\source\repos\Age Calculator Project\bin\Debug\Age Calculator Project.exe
+C:\Users\abdul\source\repos\Age Calculator Project\bin\Debug\Age Calculator Project.pdb
+C:\Users\abdul\source\repos\Age Calculator Project\obj\Debug\Age Calculator Project.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\Age Calculator Project\obj\Debug\Age Calculator Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdul\source\repos\Age Calculator Project\obj\Debug\Age_Calculator_Project.frmAgeCalculatorScreen.resources
+C:\Users\abdul\source\repos\Age Calculator Project\obj\Debug\Age_Calculator_Project.frmAgeCalculatorScreenStart.resources
+C:\Users\abdul\source\repos\Age Calculator Project\obj\Debug\Age_Calculator_Project.Properties.Resources.resources
+C:\Users\abdul\source\repos\Age Calculator Project\obj\Debug\Age Calculator Project.csproj.GenerateResource.cache
+C:\Users\abdul\source\repos\Age Calculator Project\obj\Debug\Age Calculator Project.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\Age Calculator Project\obj\Debug\Age Calculator Project.exe
+C:\Users\abdul\source\repos\Age Calculator Project\obj\Debug\Age Calculator Project.pdb
