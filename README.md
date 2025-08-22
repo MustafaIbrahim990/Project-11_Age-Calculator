@@ -1,5 +1,3 @@
-"# Project-11 _ Age-Calculator" 
-
 # 📅 Project-11: Age Calculator
 
 ## 👤 Author: Mustafa A. Ibrahim
